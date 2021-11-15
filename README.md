@@ -81,10 +81,10 @@ https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 
 
 ### Here are some of the key outcomes of the project:
-- The Dataset was quiet small totally just 768 samples & after preprocessing 17.2% of the datasamples were dropped. 
-- The diabetic samples were 30% more than non-diabetic ones, hence SMOTE Technique was applied on the data to  balance the classes, adding 11.8% more samples to the dataset.
-- Visualising the distribution of data & their relationships, helped us to get some insights on the class seperability.
-- Feature selection or feature extracting was not exercised, as there were only 8 features, which overall contributed towards the right prediction.
-- Testing multiple algorithms with default hyperparamters gave us some understanding for various models performance on this specific dataset.
-- Random Forest perform the best on the current dataset, followed by Support Vector Machines & Boosting Algorithms
-- Yet it wise to also consider simpler models as they are more generalisable & take lesser training time.
+- The Dataset was small totally around 500 samples & after preprocessing 2.2%a of the datasamples were dropped. 
+- The samples were highly imbalanced, hence SMOTE Technique was applied on the data to  balance the classes, adding 36.6% more samples to the dataset.
+- Visualising the distribution of data & their relationships, helped us to get some insights on the relationship between the featureset.
+- Feature Selection/Eliminination was not carried out due to less number of features.
+- Testing multiple algorithms with default hyperparamters gave us some understanding on the model performance for various algorithms on this specific dataset.
+- The ensemble & boosting algorithms perform the best on the current dataset, followed by Nearest Neighbours Algorithm.
+- Yet it wise to also consider simpler model like Logistic Regression as it is more generalisable & is computationally less expensive.
