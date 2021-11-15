@@ -49,25 +49,28 @@ https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 **1. Target Variable Distribution**
 <p align="left"><img src="https://user-images.githubusercontent.com/54996245/141759098-056607e4-8f0d-40e9-8bb4-4c006079c782.png" /></p>
 
-**2. Feature-set Distribution**
+**2. Categorical Feature-set Distribution**
 
 ![image](https://user-images.githubusercontent.com/54996245/141759248-04c88851-7edc-46c6-8ae4-3c5498ef7061.png)
+
+**3. Numerical Feature-set Distribution**
+
 ![image](https://user-images.githubusercontent.com/54996245/141759303-b614aa1f-4923-437b-b927-06e795c4b4ae.png)
 ![image](https://user-images.githubusercontent.com/54996245/141759315-c15fd9a9-81fa-4901-b6c4-65245379491d.png)
 
-**3. Relationship between the Feature-set**
+**4. Relationship between the Feature-set**
 
 ![image](https://user-images.githubusercontent.com/54996245/140968656-574e4edc-3f4c-4c3a-9359-07bde41d538a.png)
 
-**4. Data Retention after preforming preprocessing step**
+**5. Data Retention after preforming preprocessing step**
 
 ![image](https://user-images.githubusercontent.com/54996245/140968701-7b426b4b-9740-4398-a3c0-0e5ae190cc8e.png)
 
-**5. Correlation plot for features**
+**6. Correlation plot for features**
 
 ![image](https://user-images.githubusercontent.com/54996245/140968731-2d37bde1-3235-4a07-813d-1313339e481c.png)
 
-**6. ROC Plots**
+**7. ROC Plots**
 
 ![image](https://user-images.githubusercontent.com/54996245/140968858-ac6271bb-f3a6-4a07-a353-6529eea56b2b.png)
 
