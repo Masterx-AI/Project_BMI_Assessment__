@@ -51,8 +51,9 @@ https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 
 **2. Feature-set Distribution**
 
-![image](https://user-images.githubusercontent.com/54996245/141677354-190ccbe2-3700-49c9-a3d3-93bdad470b98.png)
-![image](https://user-images.githubusercontent.com/54996245/141677359-f894bf6e-3183-4336-913c-0eebf8527710.png)
+![image](https://user-images.githubusercontent.com/54996245/141759248-04c88851-7edc-46c6-8ae4-3c5498ef7061.png)
+![image](https://user-images.githubusercontent.com/54996245/141759303-b614aa1f-4923-437b-b927-06e795c4b4ae.png)
+![image](https://user-images.githubusercontent.com/54996245/141759315-c15fd9a9-81fa-4901-b6c4-65245379491d.png)
 
 **3. Relationship between the Feature-set**
 
