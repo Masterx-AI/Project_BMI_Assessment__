@@ -68,16 +68,16 @@ https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 
 **6. Correlation plot for features**
 
-![image](https://user-images.githubusercontent.com/54996245/140968731-2d37bde1-3235-4a07-813d-1313339e481c.png)
+![image](https://user-images.githubusercontent.com/54996245/141759715-06c1d620-fba5-406c-8968-b94494ce2b8c.png)
 
 **7. ROC Plots**
 
-![image](https://user-images.githubusercontent.com/54996245/140968858-ac6271bb-f3a6-4a07-a353-6529eea56b2b.png)
+![image](https://user-images.githubusercontent.com/54996245/141759915-f8195733-0f5c-40f7-a442-6fb8d079ac09.png)
 
 
 **5. ML Algorithm's Scores for the Iris Dataset**
-![image](https://user-images.githubusercontent.com/54996245/140968943-d4051d54-2b91-4b59-921f-0629c925a86d.png)
-![image](https://user-images.githubusercontent.com/54996245/140968960-fb10b8e0-1787-46be-bf4b-af1d8bbb6418.png)
+![image](https://user-images.githubusercontent.com/54996245/141759947-88ce8f81-c4bc-4e0d-977b-73b8a5237e9f.png)
+![image](https://user-images.githubusercontent.com/54996245/141759958-cb5b259e-e012-479b-820c-816c62ab7cb7.png)
 
 
 ### Here are some of the key outcomes of the project:
