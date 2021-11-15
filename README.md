@@ -60,11 +60,11 @@ https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 
 **4. Relationship between the Feature-set**
 
-![image](https://user-images.githubusercontent.com/54996245/140968656-574e4edc-3f4c-4c3a-9359-07bde41d538a.png)
+![image](https://user-images.githubusercontent.com/54996245/141759549-7182de06-ef04-45b1-b17f-172b89aa8ecf.png)
 
 **5. Data Retention after preforming preprocessing step**
 
-![image](https://user-images.githubusercontent.com/54996245/140968701-7b426b4b-9740-4398-a3c0-0e5ae190cc8e.png)
+![image](https://user-images.githubusercontent.com/54996245/141759612-f7c76d72-5b27-4c0e-b209-bbfea185db04.png)
 
 **6. Correlation plot for features**
 
