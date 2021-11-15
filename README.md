@@ -47,7 +47,7 @@ https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 ### Some Visuals of the Project:
 
 **1. Target Variable Distribution**
-<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141677346-76f5bbc2-d254-4dc2-b4bc-a969fe09b642.png" /></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/54996245/141759098-056607e4-8f0d-40e9-8bb4-4c006079c782.png" /></p>
 
 **2. Feature-set Distribution**
 
