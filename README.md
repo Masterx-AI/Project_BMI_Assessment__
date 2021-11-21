@@ -75,7 +75,7 @@ https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
 ![image](https://user-images.githubusercontent.com/54996245/141759915-f8195733-0f5c-40f7-a442-6fb8d079ac09.png)
 
 
-**5. ML Algorithm's Scores for the Iris Dataset**
+**8. ML Algorithm's Scores for the Dataset**
 ![image](https://user-images.githubusercontent.com/54996245/141759947-88ce8f81-c4bc-4e0d-977b-73b8a5237e9f.png)
 ![image](https://user-images.githubusercontent.com/54996245/141759958-cb5b259e-e012-479b-820c-816c62ab7cb7.png)
 
